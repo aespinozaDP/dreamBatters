@@ -18,7 +18,8 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -75,9 +76,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#1f8068",
-            "overlayOpacity": "0"
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "title": "<b>Coming Soon!</b>",
           "text": "<b>We are excited to announce our latest and greatest! DreamBatters technology, developed by DreamPak; is an innovative concept &amp; technology that will revolutionize some of the main food categories in the breakfast and dessert industry. Our R&amp;D scientists along with the rest of the company have worked tirelessly to develop this technology and we can't wait to show it!</b>",
