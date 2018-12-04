@@ -18,7 +18,8 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -58,10 +59,10 @@
             "showText": true,
             "showButtons": false,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cup-3dmodel-1738x1629.png",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "containerColor1": "#084a6e",
             "containerColor2": "#24a383",
             "bgVideoRadio": false,
@@ -69,8 +70,8 @@
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#1f8068",
+            "overlayOpacity": "0.9"
           },
           "title": "Coming Soon!",
           "text": "We are excited to announce our latest and greatest! DreamBatters technology, developed by DreamPak is an innovative concept &amp; technology that will revolutionize some of the key food categories. Our R&amp;D scientists along with the rest of the company have worked tirelessly to develop this technology and we can't wait to show it to you!",
