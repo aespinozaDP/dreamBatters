@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-03_1428",
+    "name": "DreamBatters",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -25,14 +25,18 @@
     "siteFonts": [],
     "uniqCompNum": 3,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "DreamBatters",
+        "meta_descr": "DreamBatters by DreamPak - www.dreampak.com - www.dreambrands.com",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
