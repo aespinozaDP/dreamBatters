@@ -103,7 +103,7 @@
           "form": {
             "action": "a_espinosa@live.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for checking in. We will keep you updated!"
             },
             "fields": {
               "email": {
