@@ -12,14 +12,13 @@
         "infoColor": "#74a3c7",
         "warningColor": "#FFD785",
         "dangerColor": "#FF9685",
-        "titleFont": "Lato",
+        "titleFont": "Oxygen",
         "subtitleFont": "Libre Franklin",
         "textFont": "Libre Franklin",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      },
-      "additionalSetColors": []
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -71,8 +70,8 @@
             "containerColor2": "#24a383",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/eYOK0oqL0Nw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/eYOK0oqL0Nw",
+              "url": "https://www.youtube.com/embed/j_sNLZMMFic?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/j_sNLZMMFic",
               "width": 1280,
               "height": 720
             },
